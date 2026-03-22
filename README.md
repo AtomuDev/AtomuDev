@@ -69,9 +69,9 @@
 <!-- Stats section -->
 <h2 align="center">My Activity</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+stats&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues&bg_color=00000000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&theme=dark&hide_border=true&background=FFFFFF00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+stats&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues&bg_color=00000000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=gotham&hide_border=true&background=FFFFFF00">
 </p>
 
 <br>
