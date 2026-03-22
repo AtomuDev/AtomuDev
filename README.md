@@ -32,36 +32,36 @@
 <!-- Languages -->
 <h4 align="center">Languages:</h4>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark" height="48"/>
 </p>
 
 <!-- Frameworks/Libraries -->
 <h4 align="center">Frameworks/Libraries:</h4>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark" height="48"/>
 </p>
 
 <!-- Developer Tools -->
 <h4 align="center">Developer Tools:</h4>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="48"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=dark" height="48"/>
 </p>
 
 <br>
