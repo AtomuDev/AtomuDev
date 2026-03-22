@@ -1,8 +1,11 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="github-header-banner-at98.png" alt="Banner" width="100%" />
-</p>
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-header-banner-atom-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="github-header-banner-atom-light.png">
+    <img src="github-header-banner-atom-dark.png" alt="Banner">
+  </picture>
+</div>
 
 <br>
 
@@ -22,7 +25,6 @@
 </div>
 
 <br><br> -->
-
 
 <!-- Skills section -->
 <h2 align="center">My skills</h2>
@@ -62,6 +64,15 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light" height="48"/>
 </p>
 
+<br>
+
+<!-- Stats section -->
+<h2 align="center">My Activity</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+stats&show_icons=true&count_private=true&theme=merko&hide_border=true&hide=issues&bg_color=00000000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&theme=merko&hide_border=true&background=FFFFFF00">
+</p>
 
 <br>
 
@@ -76,7 +87,7 @@
   <br><br>
   I'm currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I'm looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
   <br><br>
-  And that's it, many thanks for visiting my profile! 😊🤍 
+  That's a bit about me — thanks for stopping by! 😊🤍 
 </p>
 
 <br>
@@ -96,9 +107,3 @@
 </div>
 
 <br>
-
-<!-- END -->
-<div align="center">
-  <img height="auto" src="https://64.media.tumblr.com/0a846b579e5039fdcf3e28838100392a/tumblr_ptxcbfg1Ah1v6bs4yo9_r1_540.gif"/>
-</div>
-
