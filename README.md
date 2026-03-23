@@ -70,11 +70,11 @@
 <h2 align="center">My Activity</h2>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atomudev&hide_rank=true&custom_title=Dev+Stats&show_icons=true&icon_color=ff9500&count_private=true&theme=slateorange&hide_border=true&hide=issues&bg_color=00000000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atomudev&hide_rank=true&custom_title=Dev+Stats&title_color=ff9500&show_icons=true&icon_color=5586b4&count_private=true&theme=slateorange&hide_border=true&hide=issues&bg_color=00000000">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+Stats&title_color=5586b4&hide_rank=true&show_icons=true&icon_color=ff9500&count_private=true&theme=default&hide_border=true&hide=issues&bg_color=00000000">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&title_color=ff9500&layout=compact&hide_border=true&theme=slateorange&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&title_color=5586b4&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
   </picture>
   <picture>
