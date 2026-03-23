@@ -69,9 +69,18 @@
 <!-- Stats section -->
 <h2 align="center">My Activity</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+stats&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues&bg_color=00000000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=gotham&hide_border=true&background=FFFFFF00">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+Stats&show_icons=true&count_private=true&theme=gotham&hide_border=true&hide=issues&bg_color=00000000">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atomudev&custom_title=Dev+Stats&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues&bg_color=00000000">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=shadow-orange&hide_border=true&background=FFFFFF00">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=default&hide_border=true&background=FFFFFF00">
+  </picture>
 </p>
 
 <br>
