@@ -78,7 +78,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomudev&custom_title=Most+used+languages&title_color=5586b4&layout=compact&hide_border=true&theme=default&bg_color=00000000&langs_count=10&exclude_repo=Pacman-AI">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=highcontrast&hide_border=true&background=FFFFFF00">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=highcontrast&sideNums=5586b4&sideLabels=ff9500&hide_border=true&background=FFFFFF00">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=atomudev&mode=weekly&theme=java-dark&hide_border=true&background=FFFFFF00">
   </picture>
 </p>
