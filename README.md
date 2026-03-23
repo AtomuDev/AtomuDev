@@ -1,8 +1,8 @@
 <!-- BANNER -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-header-banner-atom-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="github-header-banner-atom-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="github-header-banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="github-header-banner-light.png">
     <img src="github-header-banner-atom-dark.png" alt="Banner">
   </picture>
 </div>
