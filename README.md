@@ -139,7 +139,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=atomudev&mode=weekly&theme=highcontrast&sideNums=5586b4&sideLabels=ff9500&hide_border=true&background=FFFFFF00">
-    <img height="180em" src="https://streak-stats.demolab.com?user=atomudev&mode=weekly&theme=java-dark&hide_border=true&background=FFFFFF00">
+    <img height="180em" src="https://streak-stats.demolab.com?user=atomudev&mode=weekly&theme=java-dark&hide_border=true&dates=1f2325&background=FFFFFF00">
   </picture>
 </p>
 
