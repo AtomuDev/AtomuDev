@@ -156,7 +156,7 @@
   <br><br>
   I'm currently pursuing a University Degree in Programming at Universidad Tecnológica Nacional (UTN), Argentina, reinforcing my academic training in parallel with my self-taught learning. I'm looking for my first professional experience in software development, to apply my knowledge, grow within a team and continue building my career as a software developer.
   <br><br>
-  That's a bit about me — thanks for stopping by! 😊🤍 
+  That's a bit about me, thanks for stopping by! 😊🤍 
 </p>
 
 <br>
