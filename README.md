@@ -7,124 +7,48 @@
   </picture>
 </div>
 
+
 <br>
 
-
-<!-- Projects Section
-<h2 align="center">My projects</h2>
-<div align="center">
-  <a href="https://github.com/Tomu98/Expense-Tracker-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-API&show_icons=true&theme=nord" alt="Expense Tracker API repo"/>
-  </a>
-  <a href="https://github.com/Tomu98/Expense-Tracker-CLI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=Expense-Tracker-CLI&show_icons=true&theme=nord" alt="Expense Tracker CLI repo"/>
-  </a>
-  <a href="https://github.com/Tomu98/GitHub-User-Activity">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomu98&repo=GitHub-User-Activity&show_icons=true&theme=nord" alt="GitHub User Activity repo"/>
-  </a>
-</div>
-
-<br><br> -->
 
 <!-- Skills section -->
 <h2 align="center">My skills</h2>
 
-<!-- Languages -->
-<h4 align="center">Languages:</h4>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=r&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=r&theme=light" height="48"/>
-  </picture>
-</p>
+#### Languages
 
-<!-- Frameworks/Libraries -->
-<h4 align="center">Frameworks/Libraries:</h4>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pytest&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib&theme=light" height="48"/>
-  </picture>
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
-<!-- Developer Tools -->
-<h4 align="center">Developer Tools:</h4>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bash&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=light" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=dark">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jira&theme=light" height="48"/>
-  </picture>
-</p>
+#### Frameworks/Libraries
+
+![Spring](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=red&color=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+#### Developer Tools
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ffffff.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 <br>
+
 
 <!-- Stats section -->
 <h2 align="center">My Activity</h2>
